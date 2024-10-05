@@ -24,10 +24,7 @@ One can search, navigate, and modify data using a parser. It’s versatile and s
 7) Check if products are found; if not, display "No products found."
 8) Visualize Product Data using a Bar Chart
 
-### Program:
-```
-NAME : Varsha.G
-REG NO : 212222230166
+### Program
 ```
 ```
 import requests
