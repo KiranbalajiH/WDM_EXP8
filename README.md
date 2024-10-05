@@ -26,9 +26,6 @@ One can search, navigate, and modify data using a parser. It’s versatile and s
 
 ### Program:
 ```
-NAME : Varsha.G
-REG NO : 212222230166
-```
 ```
 import requests
 from bs4 import BeautifulSoup
